@@ -5,6 +5,9 @@ Thus, you cannot commit whenever there are changes throughout the project.
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+It is the bridge between working directory and the repository that represent the change
+that we want to commit.
+In terms of the value, it allows multiple files to be able to commit in a single repository.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
