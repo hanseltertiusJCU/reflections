@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+It is used for collaborative project (project that involve group work rather than individual). 
+Besides, GitHub enables on sharing the work publicly that can be seen by anyone compared to keeping all your work local
+that can only be seen by an individual.
