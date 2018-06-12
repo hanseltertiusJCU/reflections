@@ -2,3 +2,8 @@ When would you want to use a remote repository rather than keeping all your work
 It is used for collaborative project (project that involve group work rather than individual). 
 Besides, GitHub enables on sharing the work publicly that can be seen by anyone compared to keeping all your work local
 that can only be seen by an individual.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+It it to make every contents of local repository to be the same as the remote repository.
+Besides, we are controlling the repository instead of computer that causes the version control to be more accurate instead of 
+being controlled by computer.
