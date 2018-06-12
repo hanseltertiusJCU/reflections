@@ -19,5 +19,5 @@ remote repository (occurs on GitHub).
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
-It enables us to be able to fetch the contents of the remote repository to the local repository
+It enables us to fetch the contents of the remote repository to the local repository
 that makes us to be able to merge remote changes to the local repository.
